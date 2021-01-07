@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "user": [
+    {
+      "username": "harshika",
+      "mobile": 1535352664,
+      "email": "harshika062@gmail.com",
+      "address": "Raebareli",
+      "id": 1
+    },
+    {
+      "username": "harshika",
+      "mobile": "harshika",
+      "email": "harshika",
+      "address": "harshika",
+      "id": 3
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
